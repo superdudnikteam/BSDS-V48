@@ -33,8 +33,8 @@ class OwnHomeDataMessage(PiranhaMessage):
 
         self.writeVInt(0) # random skins
 
-        self.writeVInt(0)
-        for x in range(0):
+        self.writeVInt(664)
+        for x in range(664):
             self.writeDataReference(29, x) # unlocked skin array
 
         self.writeVInt(0) # skin purchase option
@@ -235,7 +235,7 @@ class OwnHomeDataMessage(PiranhaMessage):
         self.writeVLong(0, 1) # player id
         self.writeVLong(0, 1)
         self.writeVLong(0, 1)
-        self.writeStringReference("crolie")
+        self.writeStringReference("risporce")
         self.writeBoolean(True) # name set
         self.writeInt(-1)
 
