@@ -4,6 +4,8 @@ Discord link : https://discord.gg/mt4dUxXryh
 
 iOS : https://mega.nz/file/Mx8TjLZD#vq1wXa9peJ0EKTXoS9pr-J1Wgij764YKBk_tCZ7FyWc    decryption key in case mega ask it : vq1wXa9peJ0EKTXoS9pr-J1Wgij764YKBk_tCZ7FyWc
 
+Second link : https://www.mediafire.com/file/4cwiggqrkxq694b/BSDS_V48.ipa/file
+
 
 ## Requirements: ##
 1. a brain...
