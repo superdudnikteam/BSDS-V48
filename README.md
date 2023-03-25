@@ -2,9 +2,8 @@
 
 Discord link : https://discord.gg/mt4dUxXryh
 
-iOS : https://mega.nz/file/x5MnUarQ#uyOo1KFtB-GWmtTV9c8CEHE2swtG8EVddJnxXdBMLU8
+iOS : https://mega.nz/file/Mx8TjLZD#vq1wXa9peJ0EKTXoS9pr-J1Wgij764YKBk_tCZ7FyWc    decryption key in case mega ask it : vq1wXa9peJ0EKTXoS9pr-J1Wgij764YKBk_tCZ7FyWc
 
-Second link (fix crash on non-jb device but can't play alongside Brawl Stars, need to delete bs to play) : https://mega.nz/file/UgM02BjB#ffctMG9YrRpXDr-ZdekR-TE3Gs7Gf6IsDsuQwSo1KFU 
 
 ## Requirements: ##
 1. a brain...
@@ -34,7 +33,7 @@ Second link (fix crash on non-jb device but can't play alongside Brawl Stars, ne
 
 8: now open the game and play.
 
-![image](https://user-images.githubusercontent.com/72312877/213475759-20669970-c333-4b10-b7e9-073995d38472.png)
+![IMG_0550](https://user-images.githubusercontent.com/72312877/227719466-2b6f2f48-6dfe-4059-aec7-507583287412.PNG)
 
 ## credits ##
 [S.B#0056](https://github.com/HaccerCat) for his help with crypto and client
